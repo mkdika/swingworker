@@ -7,6 +7,7 @@
 - Java Swing
 - NetBeans IDE 8.2
 - Swing Worker 1.1
+- Apache Ant
 - MySQL 5.5
 
 ### Installation & Running the Application
